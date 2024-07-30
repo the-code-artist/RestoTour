@@ -1,0 +1,20 @@
+.Navbar {
+    position: fixed;
+    top: 0;
+    width: 100%;
+    left: 0;
+    background-color: red; 
+    z-index: 1000; 
+    text-align: center;
+    font-style: italic;
+    color: beige;
+    font-size: 20px;
+    text-decoration: underline;
+    strong{
+      color:gold;
+      font-size:40px;
+      font-family:Verdana, Geneva, Tahoma, sans-serif;
+      font-style: italic;
+    }
+  }
+  
